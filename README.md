@@ -1,9 +1,7 @@
 # 数据监管服务
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://webasedoc.readthedocs.io/zh_CN/latest/docs/WeBASE/CONTRIBUTING.html)
-[![CodeFactor](https://www.codefactor.io/repository/github/webankfintech/webase-node-manager/badge)](https://www.codefactor.io/repository/github/webankfintech/webase-node-manager)
-[![Code Lines](https://tokei.rs/b1/github/WeBankFinTech/WeBASE-Node-Manager?category=code)](https://github.com/WeBankFinTech/WeBASE-Node-Manager)
+[![Code Lines](https://tokei.rs/b1/github/Sayou1989/WeBASE-Data-Collect?category=code)](https://github.com/Sayou1989/WeBASE-Data-Collect)
 [![license](http://img.shields.io/badge/license-Apache%20v2-blue.svg)](http://www.apache.org/licenses/)
-[![GitHub (pre-)release](https://img.shields.io/github/release/WeBankFinTech/WeBASE-Node-Manager/all.svg)](https://github.com/WeBankFinTech/WeBASE-Node-Manager/releases)
 
 ## 简介
 WeBASE-Data-Collect为区块链数据监管服务，主要提供以下功能：
